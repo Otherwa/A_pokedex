@@ -4,7 +4,7 @@ import tkinter as tk
 import urllib3
 from io import BytesIO
 pokemon = pypokedex.get(name="charmander")
-#copyright: Copyright (c) atharvdesai2002@gmail.com
+
 
 window = tk.Tk()
 window.geometry("450x787")
